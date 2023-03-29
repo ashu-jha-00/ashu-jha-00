@@ -2,7 +2,7 @@
 - 👀 I’m interested in Open Source and Competitive Programming
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on projects from various Techstacks like React JS , Node JS , HTML CSS and JS 
-- 📫 How to reach me ...
+- 📫 You can reach me via my email
       
 
 <!---
