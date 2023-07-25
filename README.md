@@ -9,15 +9,15 @@
 
 ### I'm
 
-- 🌱 I’m currently learning ** NodalJS, Architecting with Google Compute Engine.**
+- ❤️ I'm Currently Pursuing my B.Tech In **Computer Science and Engineering** (CSE).
 
-- ❤️ I'm Currently Persuing my Btech In Computer Science and Engineering(CSE).
+- 🌱 I’m currently learning **MERN Architecture of web development**
 
-- 🔥 I've started Exploring the Field of GoogleCloud as well ✨ and Hope to Contribute to that Field as well.
+- 🔥 I've started Exploring the Field of **Blockchain** as well ✨ and Hope to Contribute to that Field as well.
 
-- 💬 Ask me about **GoogleCloud Programs, Qwiklabs, Python, C , C++ etc**
+- 💬 Ask me about **Competitive Programming , Blockchain , WebDev , MERN , DataStructures , C , C++ etc**
 
-- 📫 How to reach me **jhaashu09868@gmail.com**
+- 📫 Reach me @ **jhaashu09868@gmail.com**
 
 - ⚡ Fun fact **I believe Coffee is more adhesive than Caffein**
 
@@ -117,7 +117,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashu-jha-00&show_icons=true&locale=en" alt="ashujha" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashu-jha-00&" alt="ashujha" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashu-jha-00" alt="ashujha" /></p>
 
 
 
